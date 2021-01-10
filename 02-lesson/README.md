@@ -1,3 +1,9 @@
+# Std Library
+
+Standard libraries are maintained officially by Deno Team which means that always will be soported by them.
+
+We'll speak about the 3rd party libraries in next lesson.
+ 
 # Importing libraries
 
 One important thing when you include a Deno library is import the library with the version because some functions/methods or libraries can be deleted. So we must do:
